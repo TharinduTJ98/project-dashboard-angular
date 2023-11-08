@@ -119,9 +119,8 @@ $gradient-5: linear-gradient(to top, #accbee 0%, #e7f0fd 100%);
   gap: 10px;
 }
 
-.dash-content-area-content {
-  grid-area: content-area-content;
-  overflow-y: auto;
+h1{
+  text-align: center;
 }
 
 /* Responsive */
@@ -163,3 +162,4 @@ $gradient-5: linear-gradient(to top, #accbee 0%, #e7f0fd 100%);
   background-color: #343434;
   border: 1px solid #343434;
 }
+
